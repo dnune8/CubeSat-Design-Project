@@ -4,7 +4,7 @@ A self-guided project to design, simulate, and prototype a 1U CubeSat structure.
 ---
 ## Project Scope
 
-- Design a 1U (10×10×10 cm) CubeSat frame in Fusion 360  
+- Design a 1U (10×10×10 cm) CubeSat frame in Fusion 360/NX  
 - Perform structural analysis (FEA) to simulate launch conditions  
 - Explore thermal design strategies for space applications  
 - Visualize data using Python or MATLAB  
@@ -23,7 +23,7 @@ A self-guided project to design, simulate, and prototype a 1U CubeSat structure.
 ## Folder Structure
 
 CubeSat-Design-Project/
- - CAD_Models/ # Fusion 360 files (.f3d, .step)
+ - CAD_Models/ # Fusion 360/NX files (.f3d, .step)
  - Analysis/ # FEA results, stress/thermal data
  - Code/ # Python/MATLAB scripts
  - Docs/ # Notes, plans, and references
